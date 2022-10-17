@@ -8,9 +8,12 @@ This repository contains the code for the paper:
 
 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023
 
+## News
+
+The code will be published before the conference.
 
 
-## 4. Citation
+## Citation
 
 ```BibTeX
 @inproceedings{malic2023sailor,
