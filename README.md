@@ -14,7 +14,7 @@ IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023
 
 ```BibTeX
 @inproceedings{malic2023sailor,
-  title={{SAILOR: Scaling Anchors via Insights into Latent Object}},
+  title={{SAILOR: Scaling Anchors via Insights into Latent Object Representation}},
   author={Du\v{s}an Mali\'c and Christian Fruhwirth-Reisinger and Horst Possegger and Horst Bischof},
   booktitle={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
   year={2023}
