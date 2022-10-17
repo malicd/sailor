@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper:
 
-**SAILOR: Scaling Anchors via Insights into Latent Object**
+**SAILOR: Scaling Anchors via Insights into Latent Object Representation**
 
 [Dušan Malić](https://github.com/malicd), [Christian Fruhwirth-Reisinger](https://github.com/chreisinger), [Horst Possegger](https://snototter.github.io/research/), [Horst Bischof](https://scholar.google.at/citations?user=_pq05Q4AAAAJ)
 
