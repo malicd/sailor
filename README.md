@@ -85,7 +85,8 @@ Pretraining/evaluation/calibration is performed equivalently as above using the 
 In the table below, we report Averate Prevision (AP) of moderate difficulty on the KITTI *val* split. 
 | nuScenes ⇾ KITTI  | Car | Pedestrian | Cyclist | `cfg_file` | `pretrained_model` |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Source Anchors | 24.54 | 15.13 | 24.23 | [PartA2_nuscenes-kitti.yaml](tools/cfgs/sailor/PartA2_nuscenes-kitti.yaml) | [nuscenes](https://files.icg.tugraz.at/f/07dd6e1dc57e429d9334/) | | SAILOR | 55.17 | 11.60 | 23.12 | [PartA2_nuscenes-kitti.yaml](tools/cfgs/sailor/PartA2_nuscenes-kitti.yaml) | [nuscenes](https://files.icg.tugraz.at/f/07dd6e1dc57e429d9334/) |
+| Source Anchors | 24.54 | 15.13 | 24.23 | [PartA2_nuscenes-kitti.yaml](tools/cfgs/sailor/PartA2_nuscenes-kitti.yaml) | [nuscenes](https://files.icg.tugraz.at/f/07dd6e1dc57e429d9334/) |
+| SAILOR | 55.17 | 11.60 | 23.12 | [PartA2_nuscenes-kitti.yaml](tools/cfgs/sailor/PartA2_nuscenes-kitti.yaml) | [nuscenes](https://files.icg.tugraz.at/f/07dd6e1dc57e429d9334/) |
 
 ## Acknowledgement
 Our appreciation goes to the [OpenPCDet](https://github.com/open-mmlab/OpenPCDet/) authors and maintainers. This repository is the extension of their work and effort. Additionally, we are also thankful for open-sourcing [ST3D](https://github.com/CVMI-Lab/ST3D/) from where we adopted  a lot of valuable insights.
